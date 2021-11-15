@@ -1,2 +1,2 @@
-# ModifiedPErceptron.java
- ModifiedPErceptron Java
+# ModifiedPerceptron.java
+ ModifiedPerceptron Java
