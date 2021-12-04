@@ -6,6 +6,6 @@ authors:
     orcid: https://orcid.org/0000-0002-6441-0688
 title: "ModifiedPerceptron Java. Prototype implementation in Java of the algorithm presented in my PhD thesis."
 version: 1.0.0
-doi: 10.5281/zenodo.5746465
+doi: 10.5281/zenodo.5747595
 date-released: 2021-12-01
 url: "https://github.com/gkanogiannis/ModifiedPerceptron.java"
